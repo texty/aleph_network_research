@@ -4,7 +4,7 @@
 
 
 ## API Aleph 
-(Документації)[https://redocly.github.io/redoc/?url=https://aleph.occrp.org/api/openapi.json#section/General-Overview], API Алефа детально описує які запити можна надіслати і яку інформацію отримати від Алефа. 
+[Документації](https://redocly.github.io/redoc/?url=https://aleph.occrp.org/api/openapi.json#section/General-Overview), API Алефа детально описує які запити можна надіслати і яку інформацію отримати від Алефа. 
 
 Для того, щоб надіслати запит потрібно додати до нього ключ API який можна знайти в налаштуваннях вашого особистого профілю в Алефі. Наприклад запит щодо загальної інформаці про датасет виглядає так.
 
